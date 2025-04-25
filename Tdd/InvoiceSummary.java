@@ -1,4 +1,4 @@
-package org.rituraj;
+
 
 public class InvoiceSummary {
     private final int totalRides;
