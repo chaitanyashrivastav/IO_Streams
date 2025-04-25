@@ -1,4 +1,4 @@
-package org.rituraj;
+
 
 public class Ride {
     public  double distance;
